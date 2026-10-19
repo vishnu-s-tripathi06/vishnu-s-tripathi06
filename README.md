@@ -97,7 +97,7 @@ I'm always interested in connecting with fellow developers, learning from the co
 <a href="https://www.linkedin.com/in/vishnu-shankar-tripathi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
 </a>
-<a href="mailto:vstripathi400@yahoo.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vstripathi400@yahoo.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Let's%20talk-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/>
 </a>
 
