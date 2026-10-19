@@ -33,21 +33,29 @@ I'm focused on strengthening my problem-solving skills, learning how software wo
 
 > *Learn deeply. Build consistently. Improve every day.*
 
-## ⚡ Tech Stack
+⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,sql&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js&theme=dark" alt="Java, Python, HTML, CSS and JavaScript" />
 
-### Backend & Databases
+🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite&theme=dark" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="HTML, CSS and Bootstrap" />
 
-### Tools & Environment
+⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi&theme=dark" alt="Python, Flask and FastAPI" />
+
+🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL and SQLite" />
+
+🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" alt="Git, GitHub, Docker, Linux and VS Code" />
 
 </div>
 
